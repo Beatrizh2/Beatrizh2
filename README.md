@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- Cabeçalho Animado -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12,24,30&height=200&section=header&text=Beatriz%20Albuquerque&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Animado" />
-
-🦋 ✨ *Transformando ideias em experiências visuais, código e automações inteligentes.* ✨ 🦋
-
-</div>
+# 🦋 Beatriz Albuquerque 🦋
+### *Transformando ideias em experiências visuais, código e automações inteligentes.*
 
 ---
+
+</div>
 
 ### 🦋 Sobre Mim
 
 Olá! Sou **Beatriz Albuquerque**, estudante do curso **Técnico em Desenvolvimento de Sistemas para Internet**.
 
 Unindo meu olhar atento para o **Design**, habilidades de **Desenvolvimento Web** e o uso de **Ferramentas de Automação & IA**, busco criar soluções completas, eficientes e visualmente atraentes. 
+
+✨ *Estou sempre aberta a aprender novas tecnologias, encarar desafios e contribuir com a comunidade e projetos em equipe!*
 
 * 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas para Internet
 * 🎨 **Destaque:** UI/UX Design, Front-End & Automação de Processos
@@ -36,7 +36,7 @@ Unindo meu olhar atento para o **Design**, habilidades de **Desenvolvimento Web*
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Inteligência Artificial & Automações (Em Estudo / Uso):**
+**Inteligência Artificial & Automações:**
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
