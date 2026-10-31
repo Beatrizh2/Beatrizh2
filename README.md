@@ -9,11 +9,11 @@
 
 ### 🦋 Sobre Mim
 
-Olá! Sou **Beatriz Albuquerque**, estudante do curso **Técnico em Desenvolvimento de Sistemas web**.
+Olá! Sou **Beatriz Albuquerque**, estudante do curso **Técnico em Desenvolvimento de Sistemas Web**.
 
-Unindo meu olhar atento para o **Design**, habilidades de **Desenvolvimento Web** e o uso de **Ferramentas de Automação & IA**, busco criar soluções completas, eficientes e visualmente atraentes. 
+Unindo o meu olhar atento para o **Design**, competências de **Desenvolvimento Web** e o uso de **Ferramentas de Automação & IA**, procuro criar soluções completas, eficientes e visualmente atraentes.
 
-✨ *Estou sempre aberta a aprender novas tecnologias, encarar desafios e contribuir com a comunidade e projetos em equipe!*
+✨ *Estou sempre aberta a aprender novas tecnologias, encarar desafios e contribuir com a comunidade e projetos em equipa!*
 
 * 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas Web
 * 🎨 **Destaque:** UI/UX Design, Front-End & Automação de Processos
@@ -35,6 +35,10 @@ Unindo meu olhar atento para o **Design**, habilidades de **Desenvolvimento Web*
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Em Aprendizado / Fundamentos:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Inteligência Artificial & Automações:**
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
