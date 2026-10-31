@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Cenas / Cabeçalho Animado -->
+<!-- Cabeçalho Animado -->
 <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12,24,30&height=200&section=header&text=Beatriz%20Albuquerque&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Animado" />
 
-🦋 ✨ *Transformando ideias em experiências visuais e código limpo.* ✨ 🦋
+🦋 ✨ *Transformando ideias em experiências visuais, código e automações inteligentes.* ✨ 🦋
 
 </div>
 
@@ -11,17 +11,17 @@
 
 ### 🦋 Sobre Mim
 
-Olá! Sou **Beatriz Albuquerque**, estudante do curso **Técnico em Desenvolvimento de Sistemas para Internet**. 
+Olá! Sou **Beatriz Albuquerque**, estudante do curso **Técnico em Desenvolvimento de Sistemas para Internet**.
 
-Unindo meu olhar analítico para o código e minha sensibilidade para o **Design**, busco criar interfaces modernas, responsivas e intuitivas. Tenho foco em aperfeiçoar aplicações web completas, conectando o visual elegante do front-end com a eficiência do back-end.
+Unindo meu olhar atento para o **Design**, habilidades de **Desenvolvimento Web** e o uso de **Ferramentas de Automação & IA**, busco criar soluções completas, eficientes e visualmente atraentes. 
 
 * 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas para Internet
-* 🎨 **Destaque:** Design de Interfaces & UI/UX
-* 💡 **Objetivo:** Oportunidades em Desenvolvimento Web Front-End e Full-Stack Jr.
+* 🎨 **Destaque:** UI/UX Design, Front-End & Automação de Processos
+* 💡 **Objetivo:** Oportunidades em Desenvolvimento Web, UI/UX e Automação de Workflows
 
 ---
 
-### 🛠️ Tecnologias & Habilidades 🦋
+### 🛠️ Tecnologias & Ferramentas 🦋
 
 <div align="left">
 
@@ -36,6 +36,17 @@ Unindo meu olhar analítico para o código e minha sensibilidade para o **Design
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Inteligência Artificial & Automações (Em Estudo / Uso):**
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Produtividade & Documentação:**
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+
 </div>
 
 ---
@@ -45,6 +56,6 @@ Unindo meu olhar analítico para o código e minha sensibilidade para o **Design
 ```text
  ┌─────────────────────────────────────────────────────────────┐
  │ 🌟 Projeto Destaque #1                                      │
- │ Descrição curta do projeto focado em design e front-end.    │
- │ Tecnologias: HTML | CSS | JavaScript                       │
+ │ Aplicação web ou automação focada em design e eficiência.   │
+ │ Tecnologias: HTML | CSS | JS | Node.js | n8n                │
  └─────────────────────────────────────────────────────────────┘
