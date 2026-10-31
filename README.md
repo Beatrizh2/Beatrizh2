@@ -1,39 +1,43 @@
 <div align="center">
-  <!-- Borda Animada Superior -->
-  <img src="https://vercel.app" alt="Header Animado" />
-
+  
+  # 🦋 Beatriz Albuquerque 🦋
+  
   <p align="center">
-    <img src="https://shields.io" alt="Web Dev" />
-    <img src="https://shields.io" alt="Design" />
+    <img src="https://shields.io" alt="Curso Técnico" />
   </p>
-
+  
   <p align="center">
-    🦋 <i>Transformando linhas de código em experiências visuais incríveis</i> 🦋
+    🎨 <b>Designer & Desenvolvedora Front-End</b> 🎨
   </p>
+  
+  <hr style="border: 2px solid #8A2BE2;" />
 </div>
 
 ## 👩‍💻 Sobre Mim
 
-Olá! Sou a **Beatriz Albuquerque**. Sou estudante de **Desenvolvimento de Sistemas Web** e tenho uma forte inclinação e paixão pelo lado de **Design** e UI/UX. Adoro unir a lógica da programação com a sensibilidade do design para criar interfaces limpas, modernas e funcionais.
+Olá! Sou a **Beatriz Albuquerque**. Sou estudante do curso **Técnico em Desenvolvimento de Sistemas Web** e tenho uma grande paixão pela área de **Design** e UI/UX. Adoro unir a lógica da programação com a sensibilidade visual para criar interfaces limpas, modernas e totalmente interativas.
 
-- 🎓 Graduanda em Desenvolvimento de Sistemas Web
-- 🎨 Focada em criar layouts modernos e interativos
-- 🦋 Apaixonada pela evolução contínba no front-end e back-end
+- 🎓 Estudante Técnica em Desenvolvimento de Sistemas Web
+- 🎨 Focada em criar layouts modernos e boa experiência de usuário
+- 🦋 Apaixonada por CSS, animações e evolução constante no front-end
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="NodeJS" />
+  
+  | Tecnologia | Nível / Foco |
+  | :--- | :--- |
+  | 🟨 **JavaScript** | Lógica e Interatividade |
+  | 🟧 **HTML5** | Estruturação Semântica |
+  | 🟦 **CSS3** | Estilização, Flexbox e Grid |
+  | 🟩 **Node.js** | Desenvolvimento Back-end |
+
 </div>
 
-<br>
 <p align="center">
-  <img src="https://giphy.com" width="120" alt="Borboleta Voando" />
+  🦋 ✨ 🦋 ✨ 🦋 ✨ 🦋 ✨ 🦋 ✨ 🦋
 </p>
 
 ---
@@ -50,18 +54,14 @@ Olá! Sou a **Beatriz Albuquerque**. Sou estudante de **Desenvolvimento de Siste
 ## 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
+  
+  Se quiser conversar sobre projetos, design ou código, pode me encontrar por aqui:
+
+  📧 **E-mail:** seu-email@exemplo.com  
+  💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
+
+  <br>
+  <hr style="border: 2px solid #8A2BE2;" />
+  
+  <sub><i>Design & Code por Beatriz Albuquerque 🦋</i></sub>
 </div>
-
-<br>
-
-<!-- Footer Animado Ondulado -->
-<div align="center">
-  <img src="https://vercel.app" alt="Footer Animado" />
-</div>
-
