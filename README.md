@@ -9,13 +9,13 @@
 
 ### 🦋 Sobre Mim
 
-Olá! Sou **Beatriz Albuquerque**, estudante do curso **Técnico em Desenvolvimento de Sistemas para Internet**.
+Olá! Sou **Beatriz Albuquerque**, estudante do curso **Técnico em Desenvolvimento de Sistemas web**.
 
 Unindo meu olhar atento para o **Design**, habilidades de **Desenvolvimento Web** e o uso de **Ferramentas de Automação & IA**, busco criar soluções completas, eficientes e visualmente atraentes. 
 
 ✨ *Estou sempre aberta a aprender novas tecnologias, encarar desafios e contribuir com a comunidade e projetos em equipe!*
 
-* 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas para Internet
+* 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas Web
 * 🎨 **Destaque:** UI/UX Design, Front-End & Automação de Processos
 * 💡 **Objetivo:** Oportunidades em Desenvolvimento Web, UI/UX e Automação de Workflows
 
